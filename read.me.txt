@@ -1,1 +1,0 @@
-Basic Tic Tac Toe game created using Html,css and Javascript.
